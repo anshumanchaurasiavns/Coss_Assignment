@@ -1,0 +1,16 @@
+Replacement Algo.,Cache Size,Hit Ratio
+Random,             4,	        44.2
+Random,             8,	    	48.9
+Random,             16,     	70.0
+Random,             32,         84.0
+Random,             64,     	90.8
+FIFO,               4,      	42.0
+FIFO,               8,      	46.1
+FIFO,               16,     	61.1
+FIFO,               32,	        86.2
+FIFO,               64,	    	88.5
+LRU,                4,      	42.1
+LRU,                8,      	46.1
+LRU,                16,	    	69.8
+LRU,                32,         86.2
+LRU,                64,	    	89.0
